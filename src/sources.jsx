@@ -378,17 +378,17 @@ export const clients = [
 export const contactOptions = [
   {
     title:"Email",
-    value:"mradinuba@gmail.com",
+    value:"info@syedkifayat.online",
     icon:<MdOutlineAlternateEmail />,
   },
   {
     title:"Phone Number",
-    value:"+2348149121918",
+    value:"+92311-8120088",
     icon:<IoCallOutline/>,
   },
   {
     title:"Address",
-    value:"Gwarinpa, Abuja, Nigeria",
+    value:"Johar Town, Lohore",
     icon:<IoLocationOutline/>,
   },
 ]
@@ -412,7 +412,7 @@ export const socialHandles = [
     {
       name:"Youtube",
       icon:<FaYoutube/>,
-      link:"https://www.youtube.com/channel/UCEtnsPZQEd0l1tbr_nDQd5Q?sub_confirmation=1",
+      link:"https://www.youtube.com/",
     },
 ];
 
