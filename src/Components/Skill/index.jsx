@@ -11,7 +11,6 @@ const Skill = () => {
             <span className="gradient-text">My Skills</span>
           </h1>
         </div>
-        
         <div className="skills-container">
         {
           skills.map((list,index)=>(
